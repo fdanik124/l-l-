@@ -1,0 +1,13 @@
+echo "# l-l-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kitkloren/l-l-.git
+git push -u origin mainecho "# l-l-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kitkloren/l-l-.git
+git push -u origin main
